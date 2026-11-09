@@ -1,0 +1,65 @@
+
+body {
+    background-color: rgb(242, 220, 219);
+    font-family: cursive;
+}
+
+.encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(242, 174, 188);
+
+    .titulo {
+        color:rgb(108, 8, 32);
+    }
+
+    .subtitulo {
+        color:rgb(108, 8, 32);
+    }
+}
+
+ nav  {
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+font-size: 25px;
+color:rgb(108, 8, 32);
+text-decoration: none;
+}
+
+.sub2 {
+
+    font-weight: bold;
+    color:rgb(108, 8, 32);
+    text-align: center;
+}
+
+.menu-categorias {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
